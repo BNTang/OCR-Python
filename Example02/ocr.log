@@ -1,0 +1,369 @@
+2024-07-05 00:06:25,785 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 00:06:25,785 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 00:06:25,786 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:06:26,321 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:06:26,325 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:11:47,786 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:11:47] "[33mGET /learn HTTP/1.1[0m" 404 -
+2024-07-05 00:11:59,087 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:11:59] "GET /learn/hello HTTP/1.1" 200 -
+2024-07-05 00:13:08,294 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:13:08,344 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:15:18,533 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 00:15:18,533 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 00:15:18,535 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:15:18,831 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:15:18,835 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:16:14,888 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:16:14,924 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:16:15,208 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:16:15,211 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:16:17,282 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:16:17,342 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:16:17,616 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:16:17,620 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:16:31,887 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:16:31,919 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:16:32,188 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:16:32,192 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:16:33,241 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:16:33,276 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:16:33,568 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:16:33,573 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:16:47,914 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:16:47,948 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:16:48,211 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:16:48,214 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:17:09,720 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:17:09,751 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:17:10,019 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:17:10,023 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:17:14,135 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:17:14,166 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:17:14,447 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:17:14,451 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:17:17,556 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:17:17,630 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:17:17,995 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:17:18,000 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:17:37,449 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:17:37,487 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:17:37,803 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:17:37,808 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:17:49,092 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:17:49,140 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:17:49,442 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:17:49,447 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:17:52,561 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:17:52,602 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:17:52,927 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:17:52,931 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:18:07,298 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:18:07,332 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:18:07,618 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:18:07,622 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:18:11,755 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:18:11,807 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:18:12,091 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:18:12,095 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:18:25,395 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:18:25,437 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:18:25,734 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:18:25,738 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:18:27,804 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:18:27,847 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:18:28,166 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:18:28,172 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:18:39,428 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:18:39,465 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:18:39,791 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:18:39,798 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:18:40,843 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:18:40,879 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:18:41,175 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:18:41,178 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:19:03,681 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:19:03,716 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:19:04,067 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:19:04,072 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:19:39,847 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:19:39,884 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:19:40,165 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:19:40,169 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:19:57,542 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:19:57,584 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:19:57,881 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:19:57,885 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:20:49,007 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:20:49,046 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:20:49,336 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:20:49,340 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:22:01,890 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:22:01,942 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:22:02,244 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:22:02,248 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:25:32,924 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 00:25:32,924 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 00:25:32,925 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 00:25:32,925 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 00:25:32,926 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:25:32,926 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:25:33,182 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:25:33,182 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:25:33,186 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:25:33,186 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:25:36,917 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:25:36] "[31m[1mPOST /learn/path/neo HTTP/1.1[0m" 405 -
+2024-07-05 00:25:36,917 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:25:36] "[31m[1mPOST /learn/path/neo HTTP/1.1[0m" 405 -
+2024-07-05 00:25:49,492 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:25:49,492 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:25:49,561 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:25:49,561 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:25:49,860 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:25:49,860 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:25:49,864 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:25:49,864 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:25:52,365 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:25:52] "[31m[1mPOST /learn/path/neo HTTP/1.1[0m" 405 -
+2024-07-05 00:25:52,365 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:25:52] "[31m[1mPOST /learn/path/neo HTTP/1.1[0m" 405 -
+2024-07-05 00:25:53,195 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:25:53] "[31m[1mPOST /learn/path/neo HTTP/1.1[0m" 405 -
+2024-07-05 00:25:53,195 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:25:53] "[31m[1mPOST /learn/path/neo HTTP/1.1[0m" 405 -
+2024-07-05 00:26:03,252 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:26:03] "GET /learn/path/neo HTTP/1.1" 200 -
+2024-07-05 00:26:03,252 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:26:03] "GET /learn/path/neo HTTP/1.1" 200 -
+2024-07-05 00:26:09,285 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:26:09,285 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:26:09,314 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:26:09,314 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:26:09,578 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:26:09,578 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:26:09,582 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:26:09,582 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:26:11,679 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:26:11,679 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:26:11,710 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:26:11,710 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:26:12,067 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:26:12,067 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:26:12,075 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:26:12,075 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:26:13,222 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:26:13] "GET /learn/path/neo HTTP/1.1" 200 -
+2024-07-05 00:26:13,222 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:26:13] "GET /learn/path/neo HTTP/1.1" 200 -
+2024-07-05 00:27:35,772 - learn_flask.py - INFO - name: neo
+2024-07-05 00:27:35,772 - learn_flask.py - INFO - name: neo
+2024-07-05 00:27:35,772 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:27:35] "GET /learn/query?name=neo HTTP/1.1" 200 -
+2024-07-05 00:27:35,772 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:27:35] "GET /learn/query?name=neo HTTP/1.1" 200 -
+2024-07-05 00:33:20,426 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:33:20,426 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:33:20,459 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:33:20,459 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:33:20,731 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:33:20,731 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:33:20,736 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:33:20,736 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:33:48,378 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:33:48,378 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:33:48,457 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:33:48,457 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:33:48,829 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:33:48,829 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:33:48,837 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:33:48,837 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:02,182 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:02,182 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:02,220 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:02,220 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:02,569 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:02,569 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:02,573 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:02,573 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:21,003 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:21,003 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:21,057 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:21,057 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:21,391 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:21,391 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:21,395 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:21,395 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:34,717 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:34,717 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:34,753 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:34,753 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:35,041 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:35,041 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:35,045 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:35,045 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:44,250 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:44,250 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:44,290 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:44,290 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:44,601 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:44,601 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:44,605 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:44,605 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:47,731 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:47,731 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:47,773 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:47,773 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:48,166 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:48,166 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:48,171 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:48,171 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:49,228 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:49,228 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:34:49,279 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:49,279 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:34:49,578 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:49,578 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:34:49,582 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:34:49,582 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:35:24,925 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 00:35:24,925 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 00:35:24,925 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 00:35:24,925 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 00:35:24,926 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:35:24,926 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:35:25,240 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:35:25,240 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:35:25,244 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:35:25,244 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:36:38,197 - learn_flask.py - INFO - data: b'{\r\n    "age": 10,\r\n    "name": "neo"\r\n}'
+2024-07-05 00:36:38,197 - learn_flask.py - INFO - data: b'{\r\n    "age": 10,\r\n    "name": "neo"\r\n}'
+2024-07-05 00:36:38,198 - learn_flask.py - INFO - name: neo, age: 10
+2024-07-05 00:36:38,198 - learn_flask.py - INFO - name: neo, age: 10
+2024-07-05 00:36:38,198 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:36:38] "POST /learn/post HTTP/1.1" 200 -
+2024-07-05 00:36:38,198 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 00:36:38] "POST /learn/post HTTP/1.1" 200 -
+2024-07-05 00:38:49,271 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:38:49,271 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\learn_flask.py', reloading
+2024-07-05 00:38:49,300 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:38:49,300 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:38:49,562 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:38:49,562 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:38:49,566 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:38:49,566 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:40:33,678 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 00:40:33,678 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 00:40:33,726 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:40:33,726 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:40:34,022 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:40:34,022 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:40:34,026 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:40:34,026 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:41:18,941 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 00:41:18,941 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 00:41:18,983 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:41:18,983 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 00:41:19,243 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:41:19,243 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 00:41:19,248 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 00:41:19,248 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:00:16,745 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 01:00:16,745 - _internal.py - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.0.103:8888
+2024-07-05 01:00:16,745 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 01:00:16,745 - _internal.py - INFO - [33mPress CTRL+C to quit[0m
+2024-07-05 01:00:16,748 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:00:16,748 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:00:19,242 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:00:19,242 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:00:19,246 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:00:19,246 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:00:21,047 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:00:21] "POST /ocr HTTP/1.1" 200 -
+2024-07-05 01:00:21,047 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:00:21] "POST /ocr HTTP/1.1" 200 -
+2024-07-05 01:02:15,513 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:02:15,513 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:02:15,886 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:02:15,886 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:02:18,496 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:02:18,496 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:02:18,500 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:02:18,500 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:02:23,643 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:02:23,643 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:02:23,993 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:02:23,993 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:02:26,779 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:02:26,779 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:02:26,785 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:02:26,785 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:02:55,648 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:02:55,648 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:02:56,008 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:02:56,008 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:02:58,769 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:02:58,769 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:02:58,773 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:02:58,773 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:03:01,409 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:03:01,409 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:03:01,765 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:03:01,765 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:03:04,514 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:03:04,514 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:03:04,519 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:03:04,519 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:03:16,572 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:03:16,572 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:03:16,921 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:03:16,921 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:03:19,508 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:03:19,508 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:03:19,512 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:03:19,512 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:03:42,444 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:03:42,444 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:03:42,806 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:03:42,806 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:03:45,810 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:03:45,810 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:03:45,816 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:03:45,816 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:04:07,264 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:04:07,264 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:04:07,722 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:04:07,722 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:04:10,716 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:04:10,724 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:05:07,022 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:05:07,383 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:05:07,383 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:05:10,346 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:05:10,351 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:05:15,371 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:05:15,716 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:05:15,716 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:05:18,395 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:05:18,399 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:07:05,245 - ocr_web.py - ERROR - ocr error : [Errno 2] No such file or directory: 'D:/IdeaPro/Python/PaddleOCR/Example01/imgs/12222.jpg'
+2024-07-05 01:07:05,246 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:07:05] "POST /ocr HTTP/1.1" 200 -
+2024-07-05 01:07:10,121 - ocr_web.py - ERROR - ocr error : unhashable type: 'dict'
+2024-07-05 01:07:10,121 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:07:10] "POST /ocr HTTP/1.1" 200 -
+2024-07-05 01:08:51,777 - _internal.py - INFO -  * Detected change in 'D:\\IdeaPro\\Python\\PaddleOCR\\Example02\\ocr_web.py', reloading
+2024-07-05 01:08:52,118 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:08:52,118 - _internal.py - INFO -  * Restarting with stat
+2024-07-05 01:08:54,853 - _internal.py - WARNING -  * Debugger is active!
+2024-07-05 01:08:54,858 - _internal.py - INFO -  * Debugger PIN: 660-211-878
+2024-07-05 01:09:08,478 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:09:08] "POST /ocr HTTP/1.1" 200 -
+2024-07-05 01:09:15,672 - ocr_web.py - ERROR - ocr error : [Errno 2] No such file or directory: 'D:/IdeaPro/Python/PaddleOCR/Example01/imgs/1222.jpg'
+2024-07-05 01:09:15,673 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:09:15] "[35m[1mPOST /ocr HTTP/1.1[0m" 500 -
+2024-07-05 01:14:57,106 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:14:57] "POST /ocr HTTP/1.1" 200 -
+2024-07-05 01:15:22,489 - ocr_web.py - ERROR - ocr error : [Errno 2] No such file or directory: 'D:/IdeaPro/Python/PaddleOCR/Example01/imgs/11111.jpg'
+2024-07-05 01:15:22,489 - _internal.py - INFO - 127.0.0.1 - - [05/Jul/2024 01:15:22] "[35m[1mPOST /ocr HTTP/1.1[0m" 500 -
